@@ -6,7 +6,7 @@ Automata designs to download and make. Inspired by a series I made in November 2
 
 * Post with more information and assembly video [on my website](https://wolfcatworkshop.com/index.php/walking-man-automata/)
 * Use 3mm plywood for the base and paper for the character
-* Download [SVG](files/walking-man-automata.svg) or [PDF](files/walking-man-automata.PDF) file. 
+* Download [SVG](files/walking-man-automata.svg) or [PDF](files/walking-man-automata.pdf) file. 
 
 
 more about me at https://wolfcatworkshop.com
